@@ -1,3 +1,3 @@
 # fullcycle-git-github
 
-Repositório para o desafio de commit assinado do Fullcylcle 3.0
+Repositório para o desafio de commit assinado com GPG do Fullcylcle 3.0
